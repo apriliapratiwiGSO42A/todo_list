@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405946145382",
+    "project_id": "todo-app-gso42-aprilia",
+    "storage_bucket": "todo-app-gso42-aprilia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405946145382:android:d589f086cd06eee1762ba7",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvi90O7b1t-iaR4eH_FdVAB_hAG2QFxdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
